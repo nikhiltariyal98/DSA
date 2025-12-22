@@ -1,3 +1,4 @@
+package Miscellaneous;
 
 public class shadowing {
     static int x = 100;
