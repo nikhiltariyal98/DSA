@@ -1,15 +1,12 @@
 package BitwiseOperators;
 
-
-public class oddeven 
+public class oddEven 
 {
-    public static void main(String[] args) {
-        int n =67;
-        System.out.println(checkEvenOdd(n));
-    }
-    public static boolean checkEvenOdd(int a)
+    public static void main(String[] args)
     {
-        return (a&1) ==1;
+        int a = 13;
+        System.out.println((a&1)==1?"odd":"even");
     }
+    
     
 }

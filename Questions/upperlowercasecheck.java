@@ -21,6 +21,7 @@ public class upperlowercasecheck
         {
             System.out.println("invalid");
         }
+        sc.close();
         
     }
     

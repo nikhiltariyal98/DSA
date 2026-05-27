@@ -2,7 +2,6 @@ package Questions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class leetcode2161 
 {
