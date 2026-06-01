@@ -5,8 +5,8 @@ public class ithbit {
     {
         int i =5;
         int j =2;
-        int mask = 0>>j;
-        int fin = i | mask;
+        int mask = 1<<j;
+        int fin = i & mask;
         int res = (fin==0)?0:1;
         System.out.println(res); 
     }
