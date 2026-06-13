@@ -7,3 +7,4 @@ public class resetbit {
         int fin = i & mask;
         System.out.println(fin); 
     }
+}
