@@ -1,5 +1,5 @@
 package BitwiseOperators;
-public class setto1 {
+public class setbit {
     public static void main(String[] args)
     {
         int i =5;
