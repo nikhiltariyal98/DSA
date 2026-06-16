@@ -25,6 +25,6 @@ public class flipimages {
             }
         }
 
-        System.out.println(arrays.deepToString(a));
+        System.out.println(Arrays.deepToString(a));
     }
 }
