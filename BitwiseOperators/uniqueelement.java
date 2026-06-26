@@ -4,7 +4,6 @@ public class uniqueelement {
     public static void main(String[] args)
     {
         int[] arr = {1,2,3,1,2,3,1,2,3,4};
-        int repeating = 3;
         int result=0;
         for(int i =0;i<32;i++)
         {
